@@ -60,7 +60,7 @@ function Contact() {
           target="_blank" rel="noreferrer">
           <img src={linkedIn} alt='linkedin' loading="lazy"/>
         </a>
-        <a href="https://wa.me/54933859711" 
+        <a href="https://wa.me/5491133859711" 
            className='social-icon' 
            target="_blank" rel="noreferrer">
         <img src={whatsApp} alt='whatsapp' loading="lazy" />
