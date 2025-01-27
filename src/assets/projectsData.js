@@ -30,6 +30,12 @@ Desarrollé una aplicación web para un salón de peluquería y barbería que pe
         projectDescription: `Mi primer proyecto de desarrollo web, una página temática sobre un festival de música, fue creado utilizando HTML, CSS, y JavaScript. Este proyecto se enfocó en el diseño de una interfaz atractiva y en la incorporación de interactividad básica para mejorar la experiencia del usuario. Fue mi primer paso en el mundo del desarrollo web y me permitió asentar las bases de mis habilidades en frontend.`,
         projectUrl: 'https://the-festival-de-musica.netlify.app/',
     },
+    {
+        projectName: 'Mi portfolio',
+        imageUrl: 'https://raw.githubusercontent.com/AlvarezNA/portafolio-assets/refs/heads/main/folio%20(2).bmp',
+        projectDescription: `Mi portfolio`,
+        projectUrl: 'https://alvarezfolio.netlify.app/#/',
+    },
 
 
 
