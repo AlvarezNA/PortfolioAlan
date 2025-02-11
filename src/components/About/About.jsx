@@ -13,20 +13,23 @@ function About() {
       </Header>
       <div className='about-main'>
         <div className='about-main-left'>
-            <h3 className='about-sub-heading'>Developer</h3>
+            <h3 className='about-sub-heading'>¡Hola!</h3>
             <p className='about-sub-heading-details'>
-              Soy <u>un desarrollador</u>.web autodidacta con una sólida base en la pila MERN (MongoDB, Express, React y Node.js) y un entusiasmo infinito por aprender y resolver problemas. Aunque no tengo experiencia profesional todavía, he trabajado en proyectos colaborativos y desafíos técnicos que me han permitido aplicar y mejorar mis habilidades.
+              Soy un <u>Apasionado</u>👋 de la programación y la tecnología, estudiando de forma autodidacta para convertirme en desarrollador profesional. A lo largo de mi aprendizaje, he realizado varios cursos y proyectos colaborativos que me han permitido adquirir experiencia práctica en el desarrollo de aplicaciones y soluciones.
 
-Disfruto construir soluciones prácticas, desde aplicaciones web intuitivas hasta proyectos más técnicos, como el uso de inteligencia artificial para clasificar imágenes. Me destaco por mi capacidad de aprendizaje rápido, atención al detalle y pasión por mantenerme al día con las últimas tendencias tecnológicas.
+💻 Mis habilidades incluyen trabajar con tecnologías como como CSS,SASS,JavaScript, React, Node.js,Mongodb,Python,PHP,SQL, Me entusiasma aprender continuamente y enfrentar nuevos retos que me permitan crecer tanto personal como profesionalmente.
 
-Actualmente, busco mi primera oportunidad profesional en IT, donde pueda contribuir con mis conocimientos, seguir creciendo como desarrollador y formar parte de un equipo que comparta mi pasión por la tecnología.
+🚀 Estoy buscando mi primera experiencia laboral en el mundo de la programación, donde pueda aportar mis conocimientos, trabajar en equipo y seguir desarrollándome como profesional.
+
+¡Conectemos para compartir ideas o explorar oportunidades!
             </p>
             <h3 className='about-sub-heading'>¿Qué puedo aportar?</h3>
             <p className='about-sub-heading-details'>
             Resolución de problemas: Experiencia desarrollando soluciones eficientes y organizadas, tanto en frontend como en backend.
             Adaptabilidad: Facilidad para aprender nuevas herramientas y trabajar en diferentes entornos.
             Trabajo en equipo: Experiencia en proyectos colaborativos durante cursos y desafíos, fomentando la comunicación efectiva.
-            Pasión por aprender: En constante mejora, experimentando con tecnologías como IA, OpenCV, y el desarrollo full-stack.
+            Pasión por aprender: En constante mejora.
+
             </p>
         </div>
         <div className='about-main-right'>
